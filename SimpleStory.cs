@@ -74,7 +74,7 @@ if (path == ConsoleKey.A)
     Console.WriteLine("\n\tIt looks beautiful from afar and draws you in.\n\tYou have never seen so much pink before.\n\tThe sky is now turning from black to a light blue, the sun will come back up soon.");
     Console.ReadKey();
     System.Threading.Thread.Sleep(100);
-    Console.WriteLine("\n\n\tOnce you reach the forest you realise that the serene beauty you saw does not hold up close.\n\tYour earlier fears have returned.\nThe green creatures are everywhere now joined by other, even greener, strange creatures.");
+    Console.WriteLine("\n\n\tOnce you reach the forest you realise that the serene beauty you saw does not hold up close.\n\tYour earlier fears have returned.\n\tThe green creatures are everywhere now joined by other, even greener, strange creatures.");
     Console.ReadKey();
     System.Threading.Thread.Sleep(100);
     Console.WriteLine("\n\tYou once again panic. Only this time there's nowhere to run.\n\tThe monsters are moving towards you, growling. You have lost your hope when suddenly...");
