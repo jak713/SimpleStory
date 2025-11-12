@@ -65,7 +65,7 @@ System.Threading.Thread.Sleep(100);
 while (path != ConsoleKey.A && path != ConsoleKey.B)
 {
     Console.WriteLine("\n\n\tOnly two paths exist!  You must choose one of them!\n");
-    food = Console.ReadKey().Key;
+    path = Console.ReadKey().Key;
 }
 
 if (path == ConsoleKey.A)
