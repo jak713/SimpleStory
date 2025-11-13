@@ -1,0 +1,1 @@
+![Simple Story Demo](simplestory-screencast.gif)
